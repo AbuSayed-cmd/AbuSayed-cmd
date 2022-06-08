@@ -1,4 +1,4 @@
-![MasterHead](https://inoxoft.com/app/uploads/2018/09/8-Things-you-should-never-say-to-any-programmer@3x-100-2.jpg)
+![MasterHead](https://kruschecompany.com/wp-content/uploads/2021/11/Cover-image-of-blog-on-international-embedded-software-developer-salary-ranges-1280x595.png)
 <h1 align="center">Hi 👋, I'm Abu Sayed!</h1>
 <img align="right" alt="Coding" width="400" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
 <h3 align="center">A passionate software developer from Germany</h3>
