@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development**
 
-- 💬 Ask me about **C++** and **JAVA**
+- 💬 Ask me about **C/C++** 
 
 - 📫 How to reach me **abu.sayed0@outlook.com**
 
