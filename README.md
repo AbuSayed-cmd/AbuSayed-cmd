@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [t4test](https://www.t4test.de/)
 
-- 🌱 I’m currently learning **Kotlin.**
+- 🌱 I’m currently learning **Vitis AI**
 
 - 👯 I’m looking to collaborate on **Software Development**
 
