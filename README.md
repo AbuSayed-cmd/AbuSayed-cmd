@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [t4test](https://www.t4test.de/)
+- 🔭 I’m currently looking for a new role
 
-- 🌱 I’m currently learning **Vitis AI**
+- 🌱 I’m currently learning **Altium Designer**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on **Hardware Development**
 
 - 💬 Ask me about **C/C++** 
 
-- 📫 How to reach me **abu.sayed0@outlook.com**
+- 📫 How to reach me **a.sayd@outlook.com**
 
 - ⚡ Fun fact **Love to play table tennis.**
 
